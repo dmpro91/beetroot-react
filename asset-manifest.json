@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/beetroot-react/static/css/main.bd3c1b7b.css",
+    "main.js": "/beetroot-react/static/js/main.7bced742.js",
+    "static/js/787.87c6d22c.chunk.js": "/beetroot-react/static/js/787.87c6d22c.chunk.js",
+    "index.html": "/beetroot-react/index.html",
+    "main.bd3c1b7b.css.map": "/beetroot-react/static/css/main.bd3c1b7b.css.map",
+    "main.7bced742.js.map": "/beetroot-react/static/js/main.7bced742.js.map",
+    "787.87c6d22c.chunk.js.map": "/beetroot-react/static/js/787.87c6d22c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd3c1b7b.css",
+    "static/js/main.7bced742.js"
+  ]
+}
